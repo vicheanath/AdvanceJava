@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.github.vicheanath.java.utility_doc","c":"DemoJavaDoc","l":"calculateSomething(int, int)","u":"calculateSomething(int,int)"},{"p":"com.github.vicheanath.java.utility_doc","c":"DemoJavaDoc","l":"DemoJavaDoc()","u":"%3Cinit%3E()"},{"p":"com.github.vicheanath.java.utility_doc","c":"DemoJavaDoc","l":"i"}];updateSearchResults();
