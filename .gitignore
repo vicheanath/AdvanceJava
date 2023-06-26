@@ -1,9 +1,4 @@
 /.metadata/
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> d8984f93b98d905e3562b2bd726bd3470adbb811
 # Compiled class file
 *.class
 
@@ -28,7 +23,3 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-<<<<<<< HEAD
->>>>>>> d8984f93b98d905e3562b2bd726bd3470adbb811
-=======
->>>>>>> d8984f93b98d905e3562b2bd726bd3470adbb811
