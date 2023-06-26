@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.github.vicheanath.java.documenting","c":"Demo","l":"Demo()","u":"%3Cinit%3E()"},{"p":"com.github.vicheanath.java.documenting","c":"Demo","l":"myInt"},{"p":"com.github.vicheanath.java.documenting","c":"Demo","l":"STATIC_FIELD"}];updateSearchResults();
